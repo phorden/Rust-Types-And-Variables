@@ -1,0 +1,6 @@
+[package]
+name = "TypesAndVariables"
+version = "0.1.0"
+authors = ["Harmon, Dean <Dean.Harmon@biworldwide.com>"]
+
+[dependencies]
